@@ -84,7 +84,7 @@
 .img {
     margin: 1rem; /* Responsive margin */
     padding: 1.5rem; /* Responsive padding */
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
 }
 

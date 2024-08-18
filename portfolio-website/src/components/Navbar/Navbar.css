@@ -1,7 +1,7 @@
 .nav-wrapper {
   background: ☐ rgba(0, 0, 0, 0.1);
   padding: 0.5rem 0;
-  position: sticky;
+  /* position: sticky; */
   top: 0;
   z-index: 30;
   backdrop-filter: blur (50px);

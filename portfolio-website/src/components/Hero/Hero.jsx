@@ -46,11 +46,10 @@ function Hero() {
                     </p>
                 </div>
                 <div className='img'>
-                    <img src="./assests/images/img11.png" alt="" />
+                    <img src="./assests/images/img11.png" alt="Hero" />
                 </div>
             </div>
         </section>
-
     );
 }
 

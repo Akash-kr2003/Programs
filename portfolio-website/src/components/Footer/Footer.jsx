@@ -1,6 +1,5 @@
 import React from 'react';
-import './Footer.css'; // Ensure to create and style this CSS file
-// Adjust the path as needed
+import './Footer.css'; 
 const Footer = () => {
   return (
     <footer>
@@ -89,7 +88,6 @@ const Footer = () => {
           <div className="tooltip">Whatsapp</div>
         </li>
       </ul>
-      <p>&copy; {new Date().getFullYear()} All rights reserved.</p>
 
     </footer>
   );

@@ -11,9 +11,10 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
-    padding: 2rem;
+    padding: 1rem;
     flex-wrap: wrap;
     width: 100%; 
+    /* margin: 4rem; */
     overflow: hidden; 
 }
 
@@ -33,7 +34,7 @@
     width: 28.125rem;
     height: 28.125rem;
     border-radius: 50%;
-    background: #7c66e3;
+    /* background: #7c66e3; */
     position: absolute;
     z-index: -1;
     filter: blur(225px);
@@ -52,7 +53,8 @@
 .hero-content {
     max-width: 48%; 
     padding: 1rem;
-    text-align: l;
+    text-align: 1;
+    
 }
 
 .hero-content h1 {

@@ -1,12 +1,12 @@
 export const SKILLS = [
     {
         title: "Frontend",
-        icon: "./assests/images/frontend-icon.png", 
+        icon: "./assests/images/frontend-icon.png",
         skills: [
             { skill: "HTML5", percentage: "90" },
-            { skill: "CSS3", percentage: "90" }, 
+            { skill: "CSS3", percentage: "90" },
             { skill: "JavaScript", percentage: "75" },
-            { skill: "React.js", percentage: "80" }, 
+            { skill: "React.js", percentage: "80" },
         ],
     },
     {
@@ -37,4 +37,17 @@ export const SKILLS = [
             { skill: "Attention to Detail", percentage: "70" },
         ],
     },
+];
+export const WORK_EXPERIENCE = [
+    {
+        title: "AI and Cloud Intern|Edunet Foundation",
+        Date: "Jun 2024 - Jul 2024",
+        responsibilities: [
+            "IBM SkillsBuild e - Learning Platform — it was an AI and Cloud course that helped me in building a strong base.",
+            "This was a platform to learn about cloud infrastructure, and more importantly advanced AI algorithms which were required for my hands- on projects.",
+            "Throughout my internship, I got an opportunity to work with IBM Watson and a plethora of other services on the IBM Cloud that helped me apply all those concepts into real world working where in turned out very helpful for building AI models they way it should be build & deployable cloud - based solutions effectively.",
+
+        ],
+    },
+
 ];

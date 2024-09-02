@@ -3,6 +3,7 @@
     position: relative;
     padding: 1rem; 
     overflow: hidden; 
+    
 }
 
 .skills-container::after,
@@ -11,7 +12,7 @@
     width: 28rem;
     height: 28rem;
     border-radius: 50%; 
-    background: #7c66e3;
+    /* background: #7c66e3; */
     position: absolute;
     z-index: -1;
     filter: blur(200px);
@@ -23,7 +24,7 @@
 }
 
 .skills-container::before {
-    background: #9e51b9;
+    /* background: #9e51b9; */
     bottom: 0;
     right: 0;
 }
